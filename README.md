@@ -1,5 +1,5 @@
-# Project Name: *Luxar*
-Luxar is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+# Project Name: *Movie Pot*
+Movie Pot is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ### User Stories
 
